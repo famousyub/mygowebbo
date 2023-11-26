@@ -1,0 +1,2 @@
+<username> : ayoub  	 <phonenumber : >  255996321  <password_ > :  ploihh <_email :> ayoub@gmail.com  <value :> 1  <duration > :12 
+<username> : ayoub2  	 <phonenumber : >  29966019  <password_ > :  poiu4587 <_email :> ayubo2@gmail.com  <value :> 1  <duration > :18 
